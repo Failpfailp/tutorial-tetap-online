@@ -6,4 +6,6 @@ my server miaw Development [Miaw server](https://discord.gg/ApFmj49)
 ## Getting started
 
 1. attent how to bot online!
-2. copy paste
+2. copy paste const uptimerobot = require("./uptimerobot") in index.js
+3.finish
+you can join my server discord https://discord.gg/ApFmj49
