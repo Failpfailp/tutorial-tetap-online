@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const  { token, prefix } = require("./config.js");
 const uptimerobot = require("./uptimerobot.js");
-
+//nex to go to website https://hetrixtools.com/uptime-monitor/
 const client = new Discord.Client();
 
 client.on('ready', () => {
