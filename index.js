@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 
 const  { token, prefix } = require("./config.js");
+const uptimerobot = require("./uptimerobot.js");
 
 const client = new Discord.Client();
 
