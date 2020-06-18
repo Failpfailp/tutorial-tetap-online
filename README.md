@@ -7,8 +7,8 @@ my server miaw Development [Miaw server](https://discord.gg/ApFmj49)
 
 1. attent how to bot online!
 2. copy paste const uptimerobot = require("./uptimerobot")in index.js
+3. go to nex to go to website https://hetrixtools.com/uptime-monitor/
 
-
-3.finish
+4.finish
 
 you can join my server discord https://discord.gg/ApFmj49
